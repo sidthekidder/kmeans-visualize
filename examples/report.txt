@@ -1,0 +1,222 @@
+
+Report 
+	Parameters
+		K 5
+		Number of Points Used 30000
+		Colors
+			Cluster 1	Indigo
+			Cluster 2	Gold
+			Cluster 3	Hotpink
+			Cluster 4	Firebrick
+			Cluster 5	Indianred
+
+
+	Iteration Number 1 : 
+		Cluster1	-13. % 	
+		Cluster2	15.2 % 	
+		Cluster3	61.2 % 	
+		Cluster4	-11. % 	
+		Cluster5	-2.3 % 	
+	Time for Iteration	0.281999826431
+
+	Iteration Number 2 : 
+		Cluster1	-19. % 	
+		Cluster2	10.7 % 	
+		Cluster3	16.9 % 	
+		Cluster4	3.97 % 	
+		Cluster5	2.67 % 	
+	Time for Iteration	0.280999898911
+
+	Iteration Number 3 : 
+		Cluster1	-15. % 	
+		Cluster2	7.28 % 	
+		Cluster3	12.5 % 	
+		Cluster4	0.48 % 	
+		Cluster5	-0.1 % 	
+	Time for Iteration	0.281000137329
+
+	Iteration Number 4 : 
+		Cluster1	-10. % 	
+		Cluster2	4.60 % 	
+		Cluster3	8.27 % 	
+		Cluster4	-1.1 % 	
+		Cluster5	-1.3 % 	
+	Time for Iteration	0.28200006485
+
+	Iteration Number 5 : 
+		Cluster1	-4.0 % 	
+		Cluster2	2.94 % 	
+		Cluster3	6.13 % 	
+		Cluster4	-2.5 % 	
+		Cluster5	-3.0 % 	
+	Time for Iteration	0.323999881744
+
+	Iteration Number 6 : 
+		Cluster1	-0.8 % 	
+		Cluster2	1.02 % 	
+		Cluster3	4.90 % 	
+		Cluster4	-2.9 % 	
+		Cluster5	-2.6 % 	
+	Time for Iteration	0.27799987793
+
+	Iteration Number 7 : 
+		Cluster1	1.74 % 	
+		Cluster2	0.45 % 	
+		Cluster3	3.69 % 	
+		Cluster4	-3.0 % 	
+		Cluster5	-3.1 % 	
+	Time for Iteration	0.270000219345
+
+	Iteration Number 8 : 
+		Cluster1	2.54 % 	
+		Cluster2	0.19 % 	
+		Cluster3	2.74 % 	
+		Cluster4	-2.7 % 	
+		Cluster5	-3.0 % 	
+	Time for Iteration	0.305999994278
+
+	Iteration Number 9 : 
+		Cluster1	2.17 % 	
+		Cluster2	-0.2 % 	
+		Cluster3	1.92 % 	
+		Cluster4	-2.0 % 	
+		Cluster5	-2.1 % 	
+	Time for Iteration	0.305000066757
+
+	Iteration Number 10 : 
+		Cluster1	1.44 % 	
+		Cluster2	-0.3 % 	
+		Cluster3	1.33 % 	
+		Cluster4	-1.0 % 	
+		Cluster5	-1.5 % 	
+	Time for Iteration	0.296999931335
+
+	Iteration Number 11 : 
+		Cluster1	0.97 % 	
+		Cluster2	-0.1 % 	
+		Cluster3	0.55 % 	
+		Cluster4	-0.4 % 	
+		Cluster5	-1.1 % 	
+	Time for Iteration	0.302999973297
+
+	Iteration Number 12 : 
+		Cluster1	0.57 % 	
+		Cluster2	-0.0 % 	
+		Cluster3	0.44 % 	
+		Cluster4	-0.2 % 	
+		Cluster5	-0.8 % 	
+	Time for Iteration	0.334000110626
+
+	Iteration Number 13 : 
+		Cluster1	0.64 % 	
+		Cluster2	-0.2 % 	
+		Cluster3	0.31 % 	
+		Cluster4	-0.0 % 	
+		Cluster5	-0.7 % 	
+	Time for Iteration	0.280999898911
+
+	Iteration Number 14 : 
+		Cluster1	0.60 % 	
+		Cluster2	-0.2 % 	
+		Cluster3	0.25 % 	
+		Cluster4	-0.2 % 	
+		Cluster5	-0.4 % 	
+	Time for Iteration	0.281000137329
+
+	Iteration Number 15 : 
+		Cluster1	0.01 % 	
+		Cluster2	0.05 % 	
+		Cluster3	0.12 % 	
+		Cluster4	0.13 % 	
+		Cluster5	-0.4 % 	
+	Time for Iteration	0.28200006485
+
+	Iteration Number 16 : 
+		Cluster1	0.34 % 	
+		Cluster2	-0.1 % 	
+		Cluster3	0.01 % 	
+		Cluster4	0.01 % 	
+		Cluster5	-0.2 % 	
+	Time for Iteration	0.279000043869
+
+	Iteration Number 17 : 
+		Cluster1	-0.0 % 	
+		Cluster2	0.02 % 	
+		Cluster3	-0.0 % 	
+		Cluster4	0.23 % 	
+		Cluster5	-0.1 % 	
+	Time for Iteration	0.28200006485
+
+	Iteration Number 18 : 
+		Cluster1	0.21 % 	
+		Cluster2	0.05 % 	
+		Cluster3	0.0 % 	
+		Cluster4	-0.3 % 	
+		Cluster5	0.0 % 	
+	Time for Iteration	0.281000137329
+
+	Iteration Number 19 : 
+		Cluster1	-0.1 % 	
+		Cluster2	-0.0 % 	
+		Cluster3	0.26 % 	
+		Cluster4	-0.1 % 	
+		Cluster5	-0.0 % 	
+	Time for Iteration	0.280999898911
+
+	Iteration Number 20 : 
+		Cluster1	0.10 % 	
+		Cluster2	0.04 % 	
+		Cluster3	-0.0 % 	
+		Cluster4	0.03 % 	
+		Cluster5	-0.1 % 	
+	Time for Iteration	0.281000137329
+
+	Iteration Number 21 : 
+		Cluster1	-0.1 % 	
+		Cluster2	0.01 % 	
+		Cluster3	0.15 % 	
+		Cluster4	0.0 % 	
+		Cluster5	-0.0 % 	
+	Time for Iteration	0.280999898911
+
+	Iteration Number 22 : 
+		Cluster1	0.12 % 	
+		Cluster2	-0.0 % 	
+		Cluster3	0.09 % 	
+		Cluster4	-0.1 % 	
+		Cluster5	-0.0 % 	
+	Time for Iteration	0.281000137329
+
+	Iteration Number 23 : 
+		Cluster1	0.09 % 	
+		Cluster2	-0.1 % 	
+		Cluster3	0.0 % 	
+		Cluster4	0.0 % 	
+		Cluster5	0.05 % 	
+	Time for Iteration	0.281999826431
+
+	Iteration Number 24 : 
+		Cluster1	0.0 % 	
+		Cluster2	-0.0 % 	
+		Cluster3	-0.0 % 	
+		Cluster4	0.19 % 	
+		Cluster5	-0.1 % 	
+	Time for Iteration	0.280999898911
+
+	Iteration Number 25 : 
+		Cluster1	0.01 % 	
+		Cluster2	0.04 % 	
+		Cluster3	0.05 % 	
+		Cluster4	-0.1 % 	
+		Cluster5	0.0 % 	
+	Time for Iteration	0.289000034332
+
+	Iteration Number 26 : 
+		Cluster1	-0.0 % 	
+		Cluster2	0.0 % 	
+		Cluster3	0.11 % 	
+		Cluster4	-0.1 % 	
+		Cluster5	0.0 % 	
+	Time for Iteration	0.279000043869
+
+Total elasped time	32.0699999332
